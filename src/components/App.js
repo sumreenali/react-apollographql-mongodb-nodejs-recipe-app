@@ -6,7 +6,7 @@ import {GEL_ALL_RECIPES} from '../queries';
 
 const App = () =>{
   return (
-    <div className="App">
+    <div className="center">
     <h1> Home</h1>
 
      <Query query={GEL_ALL_RECIPES}>
